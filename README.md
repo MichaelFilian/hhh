@@ -3,6 +3,63 @@
    1.1  General
    1.2 Especificos
 ## 2.MARCO TEÓRICO (RESUMEN)
+### CAPITULO 11. INTRODUCCIÓN A LA CORRIENTE Y AL VOLTAJE ALTERNOS. 
+#### SECCION 11-1. La forma de onda sinusoidal
+![Untitled](https://user-images.githubusercontent.com/93666408/149922325-9693daa0-ebeb-40b7-a336-8a90c96d71f0.jpg)
+
+#### SECCION 11-2. Fuentes de voltaje sinusoidal
+![149496206-ab773aa7-ca73-4141-a295-7e28129ff175](https://user-images.githubusercontent.com/93666408/149922485-2892bebb-e234-479a-b948-9cabcf85bc55.png)
+
+#### SECCION 11-3. Valores sinusoidales de voltaje y corriente
+![149496284-8ab841e4-37d1-4cad-a647-8748c6124756](https://user-images.githubusercontent.com/93666408/149922607-87ae851a-2aa1-4095-899d-f8485978ace4.png)
+
+#### SECCION 11-4. Medición angular de una onda seno
+![149496327-9538f950-c82a-485a-89c7-16971d1f29e8](https://user-images.githubusercontent.com/93666408/149922775-03858e6b-c4aa-4e8c-a713-dd549d560ca3.png)
+
+#### SECCION 11-5. La fórmula de la onda seno
+![Untitled (1)](https://user-images.githubusercontent.com/93666408/149925309-b01f1f6b-56c9-48b7-8fa2-d409fcd0d5d6.jpg)
+
+#### SECCION 11-6. Introducción a los fasores
+![149496473-87a72161-e6f4-4e8b-8464-e0def5bf5ed7](https://user-images.githubusercontent.com/93666408/149925416-bdfe3e56-9f25-4820-95da-6bda1b4b9f59.png)
+
+#### SECCION 11-7. Análisis de circuitos de CA
+![Flowchart](https://user-images.githubusercontent.com/93666408/149927489-ab428880-e204-4e9a-b61c-9f69c1e6c57d.jpg)
+
+#### SECCION 11-8. Voltajes superpuestos de CD y CA
+![Quick Retrospective](https://user-images.githubusercontent.com/93666408/149929446-bc07e710-7fb7-41ac-a35b-500de4799e1c.jpg)
+
+#### SECCION 11-9. Formas de onda no sinusoidales
+![149525759-72663161-3d8b-49fe-afc6-6ab2bd2045c6](https://user-images.githubusercontent.com/93666408/149929584-7ab4dbe4-7501-4ba5-9ff0-d0f93d82bbc5.png)
+
+#### SECCION 11-10. El osciloscopio, una aplicación de circuito
+![Mind Map](https://user-images.githubusercontent.com/93666408/149931758-547761df-ab4b-40f8-9bc3-1eeec8669f20.jpg)
+
+
+### CAPITULO 12.CAPACITORES
+#### SECCION 12.1 El capacitor básico
+![Concept Map](https://user-images.githubusercontent.com/93666408/149934695-0f882a93-74b2-4c47-bfa7-92785a5cf263.jpg)
+
+#### SECCION 12.2 Tipos de capacitores
+![Untitled (2)](https://user-images.githubusercontent.com/93666408/149938634-ca140569-f2c0-4092-a9c2-9b5af6299f56.jpg)
+
+#### SECCION 12.3 Capacitores en serie
+![148784680-d0f349e7-f385-47b2-ae67-25c7758709fc](https://user-images.githubusercontent.com/93666408/149938751-51b6e9f0-d4ae-4daf-a15e-0d0363c6491d.png)
+
+#### SECCION 12.4 Capacitores en paralelo
+![Untitled (3)](https://user-images.githubusercontent.com/93666408/149940620-8278b966-3431-4908-bdf2-58b4c2b931d0.jpg)
+
+#### SECCION 12.5 Capacitores en circuitos de CD
+![148840673-a4997b01-5081-42ca-b0ed-870da646bca1](https://user-images.githubusercontent.com/93666408/149940710-db855a7c-f15c-4b44-a672-26842008d727.png)
+
+#### SECCION 12.6 Capacitores en circuitos de CA
+![Untitled (4)](https://user-images.githubusercontent.com/93666408/149942809-d6ae3e73-99da-4f27-ba8d-e91db5d178f3.jpg)
+
+#### SECCION 12.7 Aplicaciones de los capacitores
+![Untitled (5)](https://user-images.githubusercontent.com/93666408/149946049-81ee32ea-fb1e-4287-8613-ead5d5868e76.jpg)
+
+#### SECCION 12.8 Circuitos de capacitor conmutados, una aplicación de circuito
+![Mind Map (1)](https://user-images.githubusercontent.com/93666408/149948774-968985d2-7b33-4034-9036-855c812fb138.jpg)
+
 ## 3.EJERCICIOS
 ### CAPITULO 11. INTRODUCCIÓN A LA CORRIENTE Y AL VOLTAJE ALTERNOS. 
 #### SECCION 11-1. La forma de onda sinusoidal
